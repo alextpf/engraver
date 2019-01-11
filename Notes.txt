@@ -1,0 +1,22 @@
+http://endurancelasers.com/everything-about-ttl-and-laser-control/
+https://www.instructables.com/id/Convert-a-3D-PRINTER-to-LASER-ENGRAVER-Under-40/
+https://www.instructables.com/id/Diy-Arduino-Laser-Engraver/
+https://www.youtube.com/watch?v=cbDS_ba_6j0
+https://www.youtube.com/watch?v=HscUYo4QBhk
+====================
+
+what is M106 do?
+https://www.simplify3d.com/support/articles/3d-printing-gcode-tutorial/
+
+M107: Fan Off
+====================
+https://www.youtube.com/watch?v=Q1KTGC1Dbz0
+
+https://www.youtube.com/watch?v=HSWbUQjilgw
+
+https://www.youtube.com/watch?v=UW07mI1z6F4
+https://www.youtube.com/watch?v=d8cW2pyG4VY
+https://www.youtube.com/watch?v=ZURYJBBRGZ0
+
+less related:
+https://www.youtube.com/watch?v=QZgZL9u1BBw
